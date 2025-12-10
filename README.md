@@ -7,9 +7,9 @@ Task 1: Configure Git
 
 I started by setting my global username and email:
 
-git config --global user.name "My Name"
+git config --global user.name "Samuel Atsyatsya"
 
-git config --global user.email "my@email.com"
+git config --global user.email "atsyatsya1@gmail.com"
 
 Then I confirmed the settings with:
 
@@ -114,5 +114,5 @@ git revert
 
 
 
-By completing this lab, I now understand the full workflow of using Git—from starting a project locally to collaborating through GitHub. 
-This has strengthened my confidence in version control again, and basic developer workflow practices.
+By completing this lab, I now understand the full workflow of using Git from starting a project locally to collaborating through GitHub. 
+This has strengthened my confidence in version control again.
